@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 rofi -dmenu \
      -password \
