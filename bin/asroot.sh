@@ -1,3 +1,4 @@
+#!/usr/bin/env bash
 
 ## rofi sudo askpass helper
 export SUDO_ASKPASS=~/.xmonad/bin/askpass.sh
